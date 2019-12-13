@@ -1,0 +1,7 @@
+M:\visual studio 2017\Projects\Examen Final Alliage Médérick Côté\Examen Final Alliage Médérick Côté\bin\Debug\Examen Final Alliage Médérick Côté.exe.config
+M:\visual studio 2017\Projects\Examen Final Alliage Médérick Côté\Examen Final Alliage Médérick Côté\bin\Debug\Examen Final Alliage Médérick Côté.exe
+M:\visual studio 2017\Projects\Examen Final Alliage Médérick Côté\Examen Final Alliage Médérick Côté\bin\Debug\Examen Final Alliage Médérick Côté.pdb
+M:\visual studio 2017\Projects\Examen Final Alliage Médérick Côté\Examen Final Alliage Médérick Côté\obj\Debug\Examen Final Alliage Médérick Côté.csprojAssemblyReference.cache
+M:\visual studio 2017\Projects\Examen Final Alliage Médérick Côté\Examen Final Alliage Médérick Côté\obj\Debug\Examen Final Alliage Médérick Côté.csproj.CoreCompileInputs.cache
+M:\visual studio 2017\Projects\Examen Final Alliage Médérick Côté\Examen Final Alliage Médérick Côté\obj\Debug\Examen Final Alliage Médérick Côté.exe
+M:\visual studio 2017\Projects\Examen Final Alliage Médérick Côté\Examen Final Alliage Médérick Côté\obj\Debug\Examen Final Alliage Médérick Côté.pdb
